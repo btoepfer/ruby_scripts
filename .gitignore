@@ -1,3 +1,4 @@
 *.xlsx
 *.log
 ~*.xlxs
+*.sql
